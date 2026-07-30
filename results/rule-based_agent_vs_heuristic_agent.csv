@@ -1,0 +1,21 @@
+game_number,player_1_agent,player_2_agent,winner_player,winning_agent,turns_played,player_1_attacks,player_1_successful_attacks,player_1_armies_lost,player_1_territories_captured,player_2_attacks,player_2_successful_attacks,player_2_armies_lost,player_2_territories_captured
+1,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,21,12,9,12,9,15,7,19,6
+2,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,66,35,10,42,10,38,15,36,13
+3,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,17,12,7,8,6,12,3,17,3
+4,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,78,47,23,48,21,41,24,42,24
+5,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,36,24,6,27,5,21,8,20,8
+6,Heuristic Agent,Rule-Based Agent,Player 1,Heuristic Agent,15,14,10,10,9,10,6,16,6
+7,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,16,14,4,17,3,10,6,9,6
+8,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,24,20,7,21,5,14,8,15,8
+9,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,23,16,8,13,7,14,4,20,4
+10,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,72,41,15,45,13,39,16,39,16
+11,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,38,23,12,28,10,23,13,22,13
+12,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,14,9,2,16,2,9,6,7,5
+13,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,14,10,1,16,1,9,5,6,4
+14,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,8,8,3,13,1,5,5,4,4
+15,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,48,26,10,33,10,31,15,27,13
+16,Heuristic Agent,Rule-Based Agent,Player 1,Heuristic Agent,17,13,9,10,8,11,5,17,5
+17,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,25,20,13,16,11,15,8,21,8
+18,Heuristic Agent,Rule-Based Agent,Player 1,Heuristic Agent,13,13,9,10,7,10,4,15,4
+19,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,27,17,13,13,12,17,9,22,9
+20,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,58,35,14,38,11,31,14,31,14

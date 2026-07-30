@@ -1,0 +1,121 @@
+match_number,game_number,agent_a,agent_b,player_1_agent,player_2_agent,winner_player,winning_agent,turns_played,player_1_attacks,player_1_successful_attacks,player_1_armies_lost,player_1_territories_captured,player_1_decisions,player_1_decision_time,player_1_simulations,player_2_attacks,player_2_successful_attacks,player_2_armies_lost,player_2_territories_captured,player_2_decisions,player_2_decision_time,player_2_simulations
+1,1,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 1,Random Agent,99,37,25,38,20,111,0.0005286001251079142,0,45,19,58,17,107,0.0005962005234323442,0
+1,2,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,Player 2,Random Agent,8,6,1,13,0,12,6.410019705072045e-05,0,5,5,2,3,12,6.759993266314268e-05,0
+1,3,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 1,Random Agent,29,14,9,12,8,36,0.00011530000483617187,0,16,6,23,5,32,0.00011630001245066524,0
+1,4,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,,Draw,100,50,25,57,23,113,0.00041079986840486526,0,39,26,42,24,112,0.0003479002043604851,0
+1,5,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,,Draw,100,44,23,50,21,123,0.000564300047699362,0,51,23,56,21,114,0.00044250034261494875,0
+1,6,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,,Draw,100,50,22,55,17,111,0.0003376003005541861,0,41,20,45,16,120,0.00027060043066740036,0
+1,7,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 1,Random Agent,89,47,25,45,19,124,0.0004654998192563653,0,41,18,53,16,100,0.0005716001614928246,0
+1,8,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,,Draw,100,47,24,56,24,109,0.0006463999743573368,0,54,29,52,24,133,0.0006196994800120592,0
+1,9,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 2,Rule-Based Agent,10,8,1,14,0,17,7.300020661205053e-05,0,5,5,3,3,12,0.00015870004426687956,0
+1,10,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,,Draw,100,53,23,57,20,118,0.00049879978178069,0,39,22,41,21,118,0.0004070999566465616,0
+1,11,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,,Draw,100,41,20,53,14,133,0.0005958997644484043,0,44,21,52,16,119,0.0007591997273266315,0
+1,12,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,,Draw,100,50,26,56,21,115,0.0006038995343260467,0,38,25,43,22,121,0.0004832000704482198,0
+1,13,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 1,Random Agent,99,44,27,43,25,117,0.00040270009776577353,0,50,23,58,22,109,0.00035060010850429535,0
+1,14,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,Player 1,Rule-Based Agent,45,22,14,23,12,52,0.0002557999105192721,0,24,12,31,9,59,0.00018900027498602867,0
+1,15,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,,Draw,100,41,29,46,19,127,0.0007346000638790429,0,41,24,56,19,116,0.0004371004179120064,0
+1,16,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,,Draw,100,46,23,56,22,113,0.0003526006476022303,0,45,27,49,22,124,0.0002817001077346504,0
+1,17,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 1,Random Agent,63,31,18,30,14,79,0.00023539992980659008,0,33,12,40,11,70,0.0002136999974027276,0
+1,18,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,Player 1,Rule-Based Agent,37,22,12,22,10,46,0.00025969964917749166,0,22,11,27,7,48,0.0002722002100199461,0
+1,19,Random Agent,Rule-Based Agent,Random Agent,Rule-Based Agent,Player 1,Random Agent,53,21,12,21,11,66,0.00024069991195574403,0,25,9,35,8,60,0.00026670005172491074,0
+1,20,Random Agent,Rule-Based Agent,Rule-Based Agent,Random Agent,Player 1,Rule-Based Agent,81,32,17,41,17,93,0.0003183996886946261,0,43,22,49,14,113,0.001311600033659488,0
+2,1,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 2,Heuristic Agent,6,5,2,12,1,10,2.849992597475648e-05,0,5,5,3,4,9,5.8700155932456255e-05,0
+2,2,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,25,14,12,15,11,32,0.0001257998519577086,0,17,11,21,8,36,7.790001109242439e-05,0
+2,3,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 1,Random Agent,89,42,22,43,17,109,0.00025260017719119787,0,42,15,53,14,100,0.00034110015258193016,0
+2,4,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,13,12,7,8,6,20,0.0001020999625325203,0,10,3,15,3,16,5.540001438930631e-05,0
+2,5,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 1,Random Agent,85,37,23,37,20,99,0.0003020003787241876,0,44,18,51,17,96,0.0004414001596160233,0
+2,6,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,37,23,14,22,12,48,0.00021540024317801,0,20,10,27,9,46,0.00013930012937635183,0
+2,7,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,,Draw,100,42,23,48,16,118,0.0002602003514766693,0,43,19,55,17,111,0.0004236998502165079,0
+2,8,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,41,24,9,23,8,55,0.00020799972116947174,0,19,7,29,5,51,0.0001431998680345714,0
+2,9,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 1,Random Agent,59,30,19,30,16,85,0.00017209997167810798,0,31,14,38,13,69,0.0002285001683048904,0
+2,10,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,17,11,6,10,5,24,8.93000396899879e-05,0,11,4,17,2,22,4.430010449141264e-05,0
+2,11,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 1,Random Agent,93,43,20,47,17,112,0.0002473001950420439,0,45,16,55,14,105,0.00033589970553293824,0
+2,12,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,,Draw,100,45,19,56,18,115,0.0006500999443233013,0,45,24,49,18,126,0.0004294001846574247,0
+2,13,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 1,Random Agent,39,22,13,20,10,53,0.00014990003546699882,0,18,7,28,7,42,0.0001886001555249095,0
+2,14,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,25,8,3,12,3,30,0.00010449974797666073,0,15,6,21,0,36,7.100019138306379e-05,0
+2,15,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 2,Heuristic Agent,38,19,7,28,3,52,0.00018079997971653938,0,16,8,18,6,46,0.000407799961976707,0
+2,16,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,85,35,20,46,20,98,0.0005311996792443097,0,45,27,51,17,113,0.0003855001996271312,0
+2,17,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 1,Random Agent,55,25,20,21,7,77,0.00022759963758289814,0,11,5,36,4,61,0.0002867001458071172,0
+2,18,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,27,18,11,16,10,36,0.00022420019377022982,0,16,9,22,7,36,0.00013369997031986713,0
+2,19,Random Agent,Heuristic Agent,Random Agent,Heuristic Agent,Player 2,Heuristic Agent,58,32,13,38,10,79,0.00017699989257380366,0,27,14,30,13,66,0.00023449992295354605,0
+2,20,Random Agent,Heuristic Agent,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,29,10,6,16,6,35,0.0001596000511199236,0,16,10,23,3,42,0.00010880018817260861,0
+3,1,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,30,14,7,24,5,43,0.0001747002243064344,0,14,11,12,8,39,0.04452929977560416,3400
+3,2,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,,Draw,100,40,18,55,16,116,0.08548779971897602,7900,38,21,42,16,136,0.0007271001231856644,0
+3,3,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,,Draw,100,49,27,52,21,133,0.0005309002008289099,0,50,25,55,22,111,0.07617770007345825,9900
+3,4,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,,Draw,100,47,21,54,19,115,0.07393440033774823,7800,41,22,43,19,130,0.0006069002556614578,0
+3,5,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,Player 1,Random Agent,59,28,19,25,15,76,0.00037659978261217475,0,29,12,38,12,63,0.04926619993057102,6300
+3,6,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,,Draw,100,49,19,51,17,116,0.057463099830783904,8200,41,19,48,16,121,0.00039199995808303356,0
+3,7,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,24,16,6,21,3,35,0.0001308001228608191,0,10,6,12,6,25,0.011793500278145075,1500
+3,8,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,Player 2,Random Agent,72,35,16,45,15,85,0.061164600076153874,7500,30,22,29,18,87,0.0003885998157784343,0
+3,9,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,,Draw,100,54,30,56,27,141,0.0006336001679301262,0,52,29,55,28,111,0.07614719995763153,8700
+3,10,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,Player 1,Monte Carlo Agent,17,10,9,8,8,23,0.030311600014101714,2000,11,6,17,5,23,0.0001556000206619501,0
+3,11,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,12,9,2,15,1,20,0.0001308001228608191,0,6,5,4,4,15,0.019987800042144954,1400
+3,12,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,Player 2,Random Agent,36,21,8,27,6,46,0.04188919975422323,4200,14,9,14,9,42,0.00034679967211559415,0
+3,13,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,56,31,18,37,15,71,0.00033699977211654186,0,31,20,31,18,66,0.04834820015821606,5900
+3,14,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,,Draw,100,54,24,57,21,107,0.06500560004496947,6300,41,23,43,22,113,0.00048130034701898694,0
+3,15,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,,Draw,100,46,29,47,22,122,0.0006566000520251691,0,46,23,55,23,105,0.14982730004703626,7900
+3,16,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,Player 2,Random Agent,78,40,15,48,14,84,0.07682360021863133,6600,33,20,31,17,93,0.0005703000933863223,0
+3,17,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,,Draw,100,50,24,52,19,124,0.0006354001816362143,0,50,21,53,21,110,0.09139899973524734,7300
+3,18,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,Player 2,Random Agent,88,45,20,53,19,100,0.07748209993587807,7500,32,23,31,22,103,0.0004428005777299404,0
+3,19,Random Agent,Monte Carlo Agent,Random Agent,Monte Carlo Agent,,Draw,100,47,29,55,23,136,0.00041690043872222304,0,48,29,53,25,115,0.07310360012343153,10200
+3,20,Random Agent,Monte Carlo Agent,Monte Carlo Agent,Random Agent,,Draw,100,52,19,55,15,111,0.06308700051158667,8400,32,18,36,15,109,0.0004600993124768138,0
+4,1,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,11,11,7,6,5,20,8.870009332895279e-05,0,7,2,14,2,15,8.780002826824784e-05,0
+4,2,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,46,30,11,32,9,54,0.00023629976203665137,0,25,12,26,12,49,0.00018059980357065797,0
+4,3,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,23,15,10,13,9,31,0.00014010019367560744,0,15,7,20,6,29,0.00013039982877671719,0
+4,4,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,16,13,3,17,1,22,0.000148200080730021,0,9,5,9,4,17,0.0001170999021269381,0
+4,5,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,18,14,6,18,5,27,0.00012740015517920256,0,12,9,11,8,24,0.00019580015214160085,0
+4,6,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,58,34,18,38,17,65,0.00045240006875246763,0,33,20,32,20,63,0.00036170013481751084,0
+4,7,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,13,8,6,8,6,16,6.500014569610357e-05,0,12,4,15,3,18,6.530008977279067e-05,0
+4,8,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 1,Heuristic Agent,39,24,13,23,13,47,0.00037040014285594225,0,23,10,28,10,45,0.00020670011872425675,0
+4,9,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,33,18,12,18,12,36,0.0002881998661905527,0,22,10,25,9,38,0.00021499994909390807,0
+4,10,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,,Draw,100,55,21,55,20,107,0.0007879998302087188,0,55,20,57,19,106,0.0005294998991303146,0
+4,11,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,23,18,10,14,7,32,0.00019829964730888605,0,13,4,20,4,26,0.00018029980128630996,0
+4,12,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,42,26,12,30,11,49,0.00035840022610500455,0,25,15,24,14,47,0.00035679974826052785,0
+4,13,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 2,Heuristic Agent,28,19,10,23,7,34,0.00020609976490959525,0,16,10,16,10,31,0.00026210001669824123,0
+4,14,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,,Draw,100,54,30,58,30,107,0.0010883000795729458,0,56,32,54,32,109,0.0007256999961100519,0
+4,15,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,29,17,9,16,8,33,0.0001906998222693801,0,18,6,23,5,32,0.00016650016186758876,0
+4,16,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,72,40,18,45,17,79,0.0004483999218791723,0,39,21,39,20,77,0.00034749985206872225,0
+4,17,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,13,12,8,9,7,20,0.00012040016008540988,0,10,4,15,4,17,0.00011189980432391167,0
+4,18,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,38,23,11,28,11,45,0.00028130022110417485,0,22,14,21,14,44,0.00023579993285238743,0
+4,19,Rule-Based Agent,Heuristic Agent,Rule-Based Agent,Heuristic Agent,Player 1,Rule-Based Agent,15,11,7,9,6,20,0.00010870001278817654,0,10,3,16,3,18,0.00010890018893405795,0
+4,20,Rule-Based Agent,Heuristic Agent,Heuristic Agent,Rule-Based Agent,Player 2,Rule-Based Agent,12,10,1,15,1,17,7.38000962883234e-05,0,6,4,3,4,13,5.21000474691391e-05,0
+5,1,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,38,23,8,28,7,45,0.00022809975780546665,0,23,10,22,10,45,0.029817899980116636,3700
+5,2,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 2,Rule-Based Agent,74,44,22,46,20,83,0.05547399999340996,5900,40,23,40,23,79,0.0004989998415112495,0
+5,3,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 1,Rule-Based Agent,79,44,18,43,18,85,0.0007144001428969204,0,45,16,48,15,85,0.0652801000396721,6300
+5,4,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 1,Monte Carlo Agent,7,6,5,2,4,11,0.01928330009104684,1000,7,1,12,1,10,5.960004637017846e-05,0
+5,5,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,18,16,7,18,4,28,0.00045129982754588127,0,9,7,10,7,21,0.0283307998906821,1700
+5,6,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 2,Rule-Based Agent,28,19,8,23,7,34,0.0325984000810422,2800,17,11,15,10,31,0.00019180012168362737,0
+5,7,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,26,18,10,22,9,37,0.00043370015919208527,0,15,13,14,12,33,0.05202920001465827,3100
+5,8,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 1,Monte Carlo Agent,7,7,7,3,6,12,0.019876800011843443,1200,7,3,12,3,10,5.860003875568509e-05,0
+5,9,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,66,36,15,42,14,72,0.0005335998721420765,0,36,17,34,17,71,0.04951450030785054,5500
+5,10,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 1,Monte Carlo Agent,21,15,10,12,9,27,0.027854599815327674,1900,14,6,19,6,25,0.0001490999129600823,0
+5,11,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 1,Rule-Based Agent,31,20,8,17,6,37,0.0002938000252470374,0,18,3,24,3,34,0.030623900063801557,3300
+5,12,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 2,Rule-Based Agent,52,33,15,35,14,60,0.038490899838507175,4400,29,17,29,17,56,0.0003583996440283954,0
+5,13,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,50,28,12,34,11,57,0.0002691994304768741,0,29,15,27,14,58,0.0257308998843655,4000
+5,14,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 1,Monte Carlo Agent,45,27,15,24,14,51,0.031192799971904606,3200,26,11,31,11,49,0.00025530013954266906,0
+5,15,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 1,Rule-Based Agent,13,12,9,7,7,21,0.0001196002122014761,0,8,4,15,4,16,0.04556000017328188,1500
+5,16,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 1,Monte Carlo Agent,21,13,9,10,7,25,0.016989900032058358,1800,12,4,19,4,23,7.780030136927962e-05,0
+5,17,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,28,16,5,23,5,33,0.00016340019647032022,0,16,8,13,8,32,0.042845399817451835,2900
+5,18,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 2,Rule-Based Agent,8,8,2,13,1,14,0.022085300006438047,2200,4,4,2,4,10,6.589986151084304e-05,0
+5,19,Rule-Based Agent,Monte Carlo Agent,Rule-Based Agent,Monte Carlo Agent,,Draw,100,56,28,54,26,109,0.0005581999430432916,0,53,24,58,24,106,0.06896719936048612,9300
+5,20,Rule-Based Agent,Monte Carlo Agent,Monte Carlo Agent,Rule-Based Agent,Player 2,Rule-Based Agent,46,26,13,32,12,50,0.028960700030438602,4300,27,16,24,15,50,0.00023309985408559442,0
+6,1,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,25,20,11,15,9,34,0.000294300087261945,0,14,6,21,6,27,0.024254300049506128,2800
+6,2,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,24,14,4,21,4,27,0.017926499946042895,1800,16,9,13,7,28,0.000194900028873235,0
+6,3,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,67,39,19,37,18,81,0.000761499919462949,0,37,15,42,15,77,0.09532179980305955,8300
+6,4,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,33,22,13,18,11,40,0.029671500029508024,2900,19,8,25,8,36,0.0002359999343752861,0
+6,5,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,31,19,12,18,12,43,0.00032350007677450776,0,21,9,24,9,43,0.05492320022312924,5300
+6,6,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,78,45,18,48,16,86,0.04453699995065108,6200,42,19,42,19,83,0.0005523000145331025,0
+6,7,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,28,22,10,23,8,37,0.00022009992972016335,0,16,11,17,11,31,0.0182040999061428,2400
+6,8,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,43,26,16,23,15,52,0.03588930022669956,3600,25,12,30,12,49,0.000232599675655365,0
+6,9,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,12,12,5,15,4,19,9.360007243230939e-05,0,9,7,8,7,16,0.01699809991987422,2000
+6,10,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,23,16,12,12,11,31,0.030286399996839464,3000,14,8,20,8,28,0.00020269997185096145,0
+6,11,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,18,12,4,18,4,24,0.00010870001278817654,0,13,7,10,7,24,0.01872419996652752,2400
+6,12,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,25,18,10,15,9,32,0.02262969996081665,2700,16,6,21,6,29,0.00014109996845945716,0
+6,13,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,12,12,6,15,4,19,0.00012480007717385888,0,8,7,8,7,15,0.015185600030235946,1700
+6,14,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,39,23,13,19,12,44,0.026431300269905478,3200,23,9,28,9,42,0.00028789998032152653,0
+6,15,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,25,18,10,15,9,33,0.0002576001570560038,0,15,6,21,6,28,0.018820500234141946,2100
+6,16,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,50,28,10,34,10,54,0.03756740014068782,4300,30,14,27,13,55,0.00044110004091635346,0
+6,17,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,,Draw,100,52,25,56,25,133,0.0015038999263197184,0,55,27,54,25,136,0.16744790005031973,13400
+6,18,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,32,22,9,25,8,42,0.057746299949940294,4600,19,11,18,11,39,0.00036299985367804766,0
+6,19,Heuristic Agent,Monte Carlo Agent,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,68,41,18,43,17,76,0.0004783999756909907,0,37,20,37,20,72,0.04782159993192181,6000
+6,20,Heuristic Agent,Monte Carlo Agent,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,48,27,13,33,12,52,0.03706380008952692,3900,30,16,27,15,54,0.0003802996361628175,0

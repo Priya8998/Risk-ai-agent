@@ -1,0 +1,7 @@
+agent_1,agent_2,games,agent_1_wins,agent_2_wins,draws,agent_1_win_rate,agent_2_win_rate,draw_rate
+Random Agent,Rule-Based Agent,500,122,182,196,24.4,36.4,39.2
+Heuristic Agent,Random Agent,500,184,140,176,36.8,28.0,35.2
+Monte Carlo Agent,Random Agent,500,174,122,204,34.8,24.4,40.8
+Heuristic Agent,Rule-Based Agent,500,201,279,20,40.2,55.8,4.0
+Monte Carlo Agent,Rule-Based Agent,500,225,250,25,45.0,50.0,5.0
+Heuristic Agent,Monte Carlo Agent,500,192,294,14,38.4,58.8,2.8

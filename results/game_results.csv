@@ -1,0 +1,21 @@
+game_number,player_1_agent,player_2_agent,winner_player,winning_agent,turns_played
+1,Random Agent,Rule-Based Agent,Player 1,Random Agent,25
+2,Rule-Based Agent,Random Agent,,Draw,100
+3,Random Agent,Rule-Based Agent,Player 2,Rule-Based Agent,30
+4,Rule-Based Agent,Random Agent,,Draw,100
+5,Random Agent,Rule-Based Agent,Player 2,Rule-Based Agent,28
+6,Rule-Based Agent,Random Agent,,Draw,100
+7,Random Agent,Rule-Based Agent,Player 2,Rule-Based Agent,38
+8,Rule-Based Agent,Random Agent,Player 1,Rule-Based Agent,33
+9,Random Agent,Rule-Based Agent,Player 1,Random Agent,27
+10,Rule-Based Agent,Random Agent,,Draw,100
+11,Random Agent,Rule-Based Agent,Player 1,Random Agent,73
+12,Rule-Based Agent,Random Agent,Player 1,Rule-Based Agent,25
+13,Random Agent,Rule-Based Agent,Player 1,Random Agent,57
+14,Rule-Based Agent,Random Agent,,Draw,100
+15,Random Agent,Rule-Based Agent,,Draw,100
+16,Rule-Based Agent,Random Agent,,Draw,100
+17,Random Agent,Rule-Based Agent,Player 2,Rule-Based Agent,24
+18,Rule-Based Agent,Random Agent,,Draw,100
+19,Random Agent,Rule-Based Agent,Player 2,Rule-Based Agent,10
+20,Rule-Based Agent,Random Agent,Player 1,Rule-Based Agent,43

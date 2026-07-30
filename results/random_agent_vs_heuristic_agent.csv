@@ -1,0 +1,21 @@
+game_number,player_1_agent,player_2_agent,winner_player,winning_agent,turns_played
+1,Random Agent,Heuristic Agent,,Draw,100
+2,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,15
+3,Random Agent,Heuristic Agent,Player 2,Heuristic Agent,84
+4,Heuristic Agent,Random Agent,Player 2,Random Agent,20
+5,Random Agent,Heuristic Agent,Player 1,Random Agent,99
+6,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,25
+7,Random Agent,Heuristic Agent,,Draw,100
+8,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,83
+9,Random Agent,Heuristic Agent,,Draw,100
+10,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,5
+11,Random Agent,Heuristic Agent,Player 1,Random Agent,81
+12,Heuristic Agent,Random Agent,,Draw,100
+13,Random Agent,Heuristic Agent,,Draw,100
+14,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,21
+15,Random Agent,Heuristic Agent,Player 1,Random Agent,63
+16,Heuristic Agent,Random Agent,,Draw,100
+17,Random Agent,Heuristic Agent,Player 1,Random Agent,87
+18,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,15
+19,Random Agent,Heuristic Agent,Player 1,Random Agent,5
+20,Heuristic Agent,Random Agent,Player 1,Heuristic Agent,19

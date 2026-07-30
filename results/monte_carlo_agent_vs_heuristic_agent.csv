@@ -1,0 +1,21 @@
+game_number,player_1_agent,player_2_agent,winner_player,winning_agent,turns_played,player_1_attacks,player_1_successful_attacks,player_1_armies_lost,player_1_territories_captured,player_1_decisions,player_1_decision_time,player_1_simulations,player_2_attacks,player_2_successful_attacks,player_2_armies_lost,player_2_territories_captured,player_2_decisions,player_2_decision_time,player_2_simulations
+1,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,23,16,7,15,7,29,0.016469599620904773,2000,15,5,20,4,26,0.00013740011490881443,0
+2,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,38,27,9,28,7,47,0.0002568999188952148,0,21,10,22,10,41,0.01925220020348206,3300
+3,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,22,14,6,20,5,26,0.015904399973805994,2200,15,9,12,8,26,0.00017749977996572852,0
+4,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,11,7,5,6,5,16,0.0001474999007768929,0,9,2,14,2,17,0.027063800080213696,2400
+5,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,24,15,6,21,5,28,0.016691000026185066,1900,17,9,15,8,29,0.00017150002531707287,0
+6,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,11,12,9,7,7,19,0.00011089997133240104,0,7,4,14,4,13,0.012778900098055601,1300
+7,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,24,19,6,21,5,35,0.032120500050950795,4000,14,8,13,8,30,0.00013690022751688957,0
+8,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,18,11,3,18,3,23,0.00010180019307881594,0,12,7,9,6,23,0.015481500187888741,2100
+9,Monte Carlo Agent,Heuristic Agent,Player 2,Heuristic Agent,52,30,12,35,11,57,0.02648739970754832,4700,30,15,29,14,56,0.00029879994690418243,0
+10,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,22,19,6,20,4,31,0.0001727998605929315,0,11,7,12,7,23,0.013748000026680529,1700
+11,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,71,39,17,39,17,76,0.02995499985991046,5300,41,15,44,14,76,0.0004267999902367592,0
+12,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,7,8,7,4,6,13,6.54999166727066e-05,0,6,3,12,3,10,0.009554699820000678,1500
+13,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,7,8,7,4,6,13,0.012585900025442243,1400,6,3,12,3,10,7.359992014244199e-05,0
+14,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,21,15,6,11,5,28,0.0001650999183766544,0,13,2,19,2,24,0.019402299949433655,2600
+15,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,23,17,12,15,10,30,0.022672999766655266,2600,14,7,20,7,26,0.0001471998984925449,0
+16,Heuristic Agent,Monte Carlo Agent,Player 2,Monte Carlo Agent,34,24,10,26,8,42,0.00018870033090934157,0,19,11,20,11,37,0.01858339976752177,2800
+17,Monte Carlo Agent,Heuristic Agent,Player 1,Monte Carlo Agent,31,18,11,19,11,35,0.01397340017138049,2200,21,10,24,8,36,0.00016430008690804243,0
+18,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,37,25,14,22,12,45,0.000422100187279284,0,21,9,27,9,40,0.02701440011151135,3400
+19,Monte Carlo Agent,Heuristic Agent,,Draw,100,52,25,54,25,103,0.03566610038978979,6500,57,25,58,23,107,0.0008017998188734055,0
+20,Heuristic Agent,Monte Carlo Agent,Player 1,Heuristic Agent,41,28,14,24,13,50,0.0002538999542593956,0,23,10,29,10,43,0.021773100015707314,2800

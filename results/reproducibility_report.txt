@@ -1,0 +1,12 @@
+RISK AI Reproducibility Report
+==============================
+Total games: 3000
+Seeds recorded: 3000
+Unique seeds: 3000
+Duplicate seed count: 0
+Minimum seed: 20360731
+Maximum seed: 20861230
+Seed validation: PASSED
+
+Game outcomes and game-state metrics are reproducible when the same seeds and code version are used.
+Decision-time values may vary slightly because they depend on computer workload.
