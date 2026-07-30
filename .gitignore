@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# VS Code local settings
+.vscode/
+
+# Test and coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Microsoft Office temporary files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Temporary files
+*.tmp
+*.log
