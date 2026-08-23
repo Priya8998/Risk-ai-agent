@@ -416,7 +416,8 @@ def choose_test_attack(player_name, reinforcement_territory):
 def play_agent_turn(
     player_name,
     agent_name,
-    max_attack_rounds=5
+    max_attack_rounds=5,
+    monte_carlo_simulations=100
 ):
 
     print("\n==============================")
@@ -557,7 +558,7 @@ def play_agent_turn(
 
         elif agent_name == "Monte Carlo Agent":
 
-            simulations_per_attack = 100
+            simulations_per_attack = monte_carlo_simulations
 
             attack_choice = choose_monte_carlo_attack(
                 valid_attacks,
@@ -637,7 +638,8 @@ def play_game(
     max_turns=100,
     player_1_agent="Random Agent",
     player_2_agent="Rule-Based Agent",
-    random_seed=None
+    random_seed=None,
+    monte_carlo_simulations=100
 ):
     # Use a fixed seed when one is provided
     if random_seed is not None:
@@ -674,7 +676,8 @@ def play_game(
         play_agent_turn(
             current_player,
             agent_name,
-            max_attack_rounds=5
+            max_attack_rounds=5,
+            monte_carlo_simulations=monte_carlo_simulations
         )
 
         # Check for a winner
